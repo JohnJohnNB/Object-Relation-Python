@@ -1,5 +1,5 @@
-# DSO-Exercicio-04
-Relações entre Objetos
+# Object-Relation-Python
+Object Relation
 
-Exercício 4 da disciplina Desenvolvimento de Sistemas Orientados a Objetos, curso Sistemas de Informação UFSC.
+Exercise for the OOP-Systems-Development class for the Information Systems course under UFSC.
 
